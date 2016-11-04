@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "87265546634",
+    "firebase_url": "https://mapa-7951e.firebaseio.com",
+    "project_id": "mapa-7951e",
+    "storage_bucket": "mapa-7951e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87265546634:android:ce501995060c8b23",
+        "android_client_info": {
+          "package_name": "com.example.rafael.mapa_gps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87265546634-nc12jjae9gn3tsteco9r7m3no2cudb2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwonDt9vJR_XUtWMre9Y06302aP6OPmp8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
